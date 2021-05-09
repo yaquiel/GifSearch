@@ -1,0 +1,10 @@
+D:\projects\GifSearch\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\projects\GifSearch\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.AssemblyInfoInputs.cache
+D:\projects\GifSearch\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.AssemblyInfo.cs
+D:\projects\GifSearch\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.deps.json
+D:\projects\GifSearch\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.runtimeconfig.json
+D:\projects\GifSearch\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.runtimeconfig.dev.json
+D:\projects\GifSearch\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.dll
+D:\projects\GifSearch\BackEnd\bin\Debug\netcoreapp2.0\BackEnd.pdb
+D:\projects\GifSearch\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.dll
+D:\projects\GifSearch\BackEnd\obj\Debug\netcoreapp2.0\BackEnd.pdb

@@ -1,0 +1,26 @@
+.autoComlete_cover{
+    position: absolute;
+    background: transparent;
+    color: black;
+    padding: 0;
+    z-index: 5;
+    box-shadow: 0px 0px 3px black;
+}
+.autoComlete_cover ul{
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    background: #fff;
+    margin: 0;
+}
+.autoComlete_cover ul li{
+cursor: pointer;
+transition: all 0.5s linear;
+}
+.autoComlete_cover ul li:nth-child(2n){
+    background: rgba(128, 128, 128, 0.5);
+}
+.autoComlete_cover ul li:hover{
+    background: rgba(107, 133, 182, 0.5);
+
+}
